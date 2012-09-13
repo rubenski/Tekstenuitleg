@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>1_op_veel.gif</originalFileName>
+    <size>3351</size>
+    <dateLastModified>Mon, 12 Dec 2011 21:11:36 GMT</dateLastModified>
+    <width>276</width>
+    <height>154</height>
+    <cachedImage>
+      <fileName>ble3eaet.gif</fileName>
+      <dateCreated>Mon, 12 Dec 2011 21:17:58 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 20:32:09 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>85</width>
+      <height>47</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

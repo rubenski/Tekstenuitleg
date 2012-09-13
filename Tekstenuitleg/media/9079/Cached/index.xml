@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>test-netwerken.png</originalFileName>
+    <size>1340</size>
+    <dateLastModified>Mon, 12 Dec 2011 21:11:14 GMT</dateLastModified>
+    <width>92</width>
+    <height>87</height>
+    <cachedImage>
+      <fileName>qelrlm0r.png</fileName>
+      <dateCreated>Mon, 12 Dec 2011 21:17:42 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 17:59:20 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <width>85</width>
+      <height>80</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>q2coq13s.png</fileName>
+      <dateCreated>Mon, 26 Dec 2011 06:15:45 GMT</dateCreated>
+      <dateLastAccessed>Mon, 26 Dec 2011 06:15:45 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <width>85</width>
+      <height>80</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

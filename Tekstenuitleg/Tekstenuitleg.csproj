@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DBE43826-5FEE-48CB-8DFC-94A4FBD9F390}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tekstenuitleg</RootNamespace>
+    <AssemblyName>Tekstenuitleg</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>xslt\Image.xslt</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="businesslogic, Version=1.0.4086.28097, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\businesslogic.dll</HintPath>
+    </Reference>
+    <Reference Include="cms, Version=1.0.4089.21636, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\cms.dll</HintPath>
+    </Reference>
+    <Reference Include="interfaces, Version=1.0.4085.20549, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MySql.Data, Version=5.1.2.2, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="umbraco, Version=1.0.4090.21631, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\umbraco.dll</HintPath>
+    </Reference>
+    <Reference Include="umbraco.editorControls, Version=1.0.4281.20203, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="umbraco.Linq.Core, Version=1.0.4090.21642, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\umbraco.Linq.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\splashes\booting.aspx" />
+    <Content Include="config\splashes\noNodes.aspx" />
+    <Content Include="default.aspx" />
+    <Content Include="static\css\style.css" />
+    <Content Include="static\images\1_op_veel.gif" />
+    <Content Include="static\images\aanpassen.gif" />
+    <Content Include="static\images\abyss_startup.gif" />
+    <Content Include="static\images\abyss_tray.gif" />
+    <Content Include="static\images\abyss_welcome.gif" />
+    <Content Include="static\images\account_instellen_outlook.gif" />
+    <Content Include="static\images\added_to_restricted.png" />
+    <Content Include="static\images\add_friends_to_list.png" />
+    <Content Include="static\images\admin\logoutbullet.gif" />
+    <Content Include="static\images\admin\navigationbg.gif" />
+    <Content Include="static\images\adsense300X250.gif" />
+    <Content Include="static\images\adsenselinkunit.png" />
+    <Content Include="static\images\adsense_test.gif" />
+    <Content Include="static\images\adsl.png" />
+    <Content Include="static\images\adsl2_alcatel.jpg" />
+    <Content Include="static\images\adsl_overizcht.jpg" />
+    <Content Include="static\images\album_privacy.jpg" />
+    <Content Include="static\images\alice_bot.gif" />
+    <Content Include="static\images\alleartikelen.gif" />
+    <Content Include="static\images\android.jpg" />
+    <Content Include="static\images\aopen.jpg" />
+    <Content Include="static\images\apparaatbeheer.gif" />
+    <Content Include="static\images\appsgaming.gif" />
+    <Content Include="static\images\argent2.swf" />
+    <Content Include="static\images\artikelen_button.gif" />
+    <Content Include="static\images\asrockmobo.jpg" />
+    <Content Include="static\images\assign_to_list.png" />
+    <Content Include="static\images\associations.gif" />
+    <Content Include="static\images\associationwpa.gif" />
+    <Content Include="static\images\association_small.gif" />
+    <Content Include="static\images\association_wpa_small.gif" />
+    <Content Include="static\images\asus_mobo.jpg" />
+    <Content Include="static\images\audience_selector.jpg" />
+    <Content Include="static\images\audience_selector_foto.jpg" />
+    <Content Include="static\images\axp.gif" />
+    <Content Include="static\images\aziebanner.gif" />
+    <Content Include="static\images\bar_pic.jpg" />
+    <Content Include="static\images\bc_interface.gif" />
+    <Content Include="static\images\bc_logo.gif" />
+    <Content Include="static\images\bedragentabel.gif" />
+    <Content Include="static\images\beertable.gif" />
+    <Content Include="static\images\bekabeling.gif" />
+    <Content Include="static\images\bekabeling_router.gif" />
+    <Content Include="static\images\bekabeling_thuisnetwerk.gif" />
+    <Content Include="static\images\bestandenprintersdelen.gif" />
+    <Content Include="static\images\bf_big_high.jpg" />
+    <Content Include="static\images\bf_small_high.jpg" />
+    <Content Include="static\images\bf_small_low.jpg" />
+    <Content Include="static\images\bg1.gif" />
+    <Content Include="static\images\biertabellen.gif" />
+    <Content Include="static\images\bla.gif" />
+    <Content Include="static\images\bloem_formule.gif" />
+    <Content Include="static\images\bodybg.gif" />
+    <Content Include="static\images\border_menu_excel.gif" />
+    <Content Include="static\images\bottom_right_corner.gif" />
+    <Content Include="static\images\bottom_rounded.png" />
+    <Content Include="static\images\breadcrumbz.jpg" />
+    <Content Include="static\images\broodandbakkenandgist.gif" />
+    <Content Include="static\images\broodorbakkenorgist.gif" />
+    <Content Include="static\images\bullet.png" />
+    <Content Include="static\images\b_adsl.gif" />
+    <Content Include="static\images\b_artikelen.gif" />
+    <Content Include="static\images\b_forum.gif" />
+    <Content Include="static\images\b_home.gif" />
+    <Content Include="static\images\b_shop.gif" />
+    <Content Include="static\images\calculatortwice.gif" />
+    <Content Include="static\images\ccdsensor.jpg" />
+    <Content Include="static\images\celopmaak.gif" />
+    <Content Include="static\images\cfxd-adapter.jpg" />
+    <Content Include="static\images\ck.gif" />
+    <Content Include="static\images\colors_excel.gif" />
+    <Content Include="static\images\combodrive.jpg" />
+    <Content Include="static\images\communication_types.gif" />
+    <Content Include="static\images\compactflash4gb.GIF" />
+    <Content Include="static\images\contacttabel.gif" />
+    <Content Include="static\images\contacttabel2.gif" />
+    <Content Include="static\images\contact_moments_communication_types.gif" />
+    <Content Include="static\images\contact_moments_communication_types_small.gif" />
+    <Content Include="static\images\contact_moments_table_ini.gif" />
+    <Content Include="static\images\contact_moments_table_ini_pk_fk.gif" />
+    <Content Include="static\images\contact_moments_table_ini_pk_fk_small.gif" />
+    <Content Include="static\images\contact_moments_table_ini_small.gif" />
+    <Content Include="static\images\control_panel.png" />
+    <Content Include="static\images\cost_monthly.jpg" />
+    <Content Include="static\images\cpanel.png" />
+    <Content Include="static\images\create_list.png" />
+    <Content Include="static\images\cursusandgoogle.gif" />
+    <Content Include="static\images\cursusorgoogle.gif" />
+    <Content Include="static\images\cursustabel.gif" />
+    <Content Include="static\images\cursus_outlook_smtp+pop3.gif" />
+    <Content Include="static\images\customer_table.gif" />
+    <Content Include="static\images\customer_table_pk.gif" />
+    <Content Include="static\images\customer_table_pk2.gif" />
+    <Content Include="static\images\dane_elec_mem.jpg" />
+    <Content Include="static\images\database_aanmaken.png" />
+    <Content Include="static\images\data_model.gif" />
+    <Content Include="static\images\diamondmaxplus8.jpg" />
+    <Content Include="static\images\dir_structuur_server.gif" />
+    <Content Include="static\images\disable_broadcast.gif" />
+    <Content Include="static\images\dns.gif" />
+    <Content Include="static\images\dns.jpg" />
+    <Content Include="static\images\domein_kiezen.png" />
+    <Content Include="static\images\dotlinevert.gif" />
+    <Content Include="static\images\dot_line.gif" />
+    <Content Include="static\images\draadloos_netwerk.gif" />
+    <Content Include="static\images\draadloos_netwerk_eth_rtr.gif" />
+    <Content Include="static\images\draadloos_netwerk_router.gif" />
+    <Content Include="static\images\draadloos_veiligheid.gif" />
+    <Content Include="static\images\draadloos_veiligheid_klein.gif" />
+    <Content Include="static\images\duvel.jpg" />
+    <Content Include="static\images\dvi-vga.jpg" />
+    <Content Include="static\images\e-mailaccounts.gif" />
+    <Content Include="static\images\emailaccounts.gif" />
+    <Content Include="static\images\excelformulas.gif" />
+    <Content Include="static\images\excel_chart.jpg" />
+    <Content Include="static\images\excel_extend.gif" />
+    <Content Include="static\images\excel_functiebalk.gif" />
+    <Content Include="static\images\excel_rekenblad.gif" />
+    <Content Include="static\images\extern_bureaublad.gif" />
+    <Content Include="static\images\facebook_lists.png" />
+    <Content Include="static\images\facebook_privacy_instellingen.gif" />
+    <Content Include="static\images\fayepic.jpg" />
+    <Content Include="static\images\featurebg.gif" />
+    <Content Include="static\images\fill_add.gif" />
+    <Content Include="static\images\firefox.gif" />
+    <Content Include="static\images\firsttable.gif" />
+    <Content Include="static\images\flatfile.gif" />
+    <Content Include="static\images\flatfilenl.gif" />
+    <Content Include="static\images\flour_formula.JPG" />
+    <Content Include="static\images\format_cells.gif" />
+    <Content Include="static\images\formula_bar.jpg" />
+    <Content Include="static\images\forum_bg.gif" />
+    <Content Include="static\images\g1_1.JPG" />
+    <Content Include="static\images\g1_2.jpg" />
+    <Content Include="static\images\g1_tm.jpg" />
+    <Content Include="static\images\gator.gif" />
+    <Content Include="static\images\gesprek_alice.gif" />
+    <Content Include="static\images\glasvezel.jpg" />
+    <Content Include="static\images\goog.jpg" />
+    <Content Include="static\images\gorgeous_draadloos.gif" />
+    <Content Include="static\images\grafiek.gif" />
+    <Content Include="static\images\grafiek_ikoontje.gif" />
+    <Content Include="static\images\green_star.png" />
+    <Content Include="static\images\hama_reader.jpg" />
+    <Content Include="static\images\hama_reader1.jpg" />
+    <Content Include="static\images\harddisk.jpg" />
+    <Content Include="static\images\harddisk_platters.jpg" />
+    <Content Include="static\images\headings.gif" />
+    <Content Include="static\images\home-network-cable.jpg" />
+    <Content Include="static\images\home_button.gif" />
+    <Content Include="static\images\hotmailerror.gif" />
+    <Content Include="static\images\how_you_connect.png" />
+    <Content Include="static\images\htmldropdown.gif" />
+    <Content Include="static\images\ics.gif" />
+    <Content Include="static\images\icsnetwerk.gif" />
+    <Content Include="static\images\inspire\2357879585_a6261c2ec7.jpg" />
+    <Content Include="static\images\inspire\siteinspire-home-web-design-inspiration_1239199087525.png" />
+    <Content Include="static\images\inspire\stock_image_patent.jpg" />
+    <Content Include="static\images\instellingen_taggen.png" />
+    <Content Include="static\images\instellingen_testen.gif" />
+    <Content Include="static\images\interested_in.gif" />
+    <Content Include="static\images\intitlesearch.gif" />
+    <Content Include="static\images\ipconfig.gif" />
+    <Content Include="static\images\iplog.txt" />
+    <Content Include="static\images\ipod_nano.jpg" />
+    <Content Include="static\images\ist2_141136-assorted-colorful-usb.jpg" />
+    <Content Include="static\images\ist2_3002918-opened-hard-drives.jpg" />
+    <Content Include="static\images\ist2_6693845-computer-hard-drive.jpg" />
+    <Content Include="static\images\is_logo.gif" />
+    <Content Include="static\images\kingston_mmc.jpg" />
+    <Content Include="static\images\laptop.jpg" />
+    <Content Include="static\images\ledger_sheet.jpg" />
+    <Content Include="static\images\left_corner.gif" />
+    <Content Include="static\images\lege_kolom.gif" />
+    <Content Include="static\images\lieve.jpg" />
+    <Content Include="static\images\linkad.gif" />
+    <Content Include="static\images\linksys_WEP.gif" />
+    <Content Include="static\images\lists.png" />
+    <Content Include="static\images\logo.gif" />
+    <Content Include="static\images\logo.jpg" />
+    <Content Include="static\images\logo1.gif" />
+    <Content Include="static\images\logo1.jpg" />
+    <Content Include="static\images\logo1.png" />
+    <Content Include="static\images\logo2.jpg" />
+    <Content Include="static\images\logo2.png" />
+    <Content Include="static\images\logo_bg_hardware.jpg" />
+    <Content Include="static\images\logo_hardware.gif" />
+    <Content Include="static\images\logo_internet.gif" />
+    <Content Include="static\images\logo_los.jpg" />
+    <Content Include="static\images\LPS_logo_04.gif" />
+    <Content Include="static\images\lycos_logo.gif" />
+    <Content Include="static\images\macfilter.gif" />
+    <Content Include="static\images\mail.png" />
+    <Content Include="static\images\mainbg.jpg" />
+    <Content Include="static\images\mainrightbg.gif" />
+    <Content Include="static\images\manage_list.png" />
+    <Content Include="static\images\many_to_many.gif" />
+    <Content Include="static\images\map_delen.gif" />
+    <Content Include="static\images\memorystick.jpg" />
+    <Content Include="static\images\memorystick_pro.jpg" />
+    <Content Include="static\images\memorystick_pro_high_speed.jpg" />
+    <Content Include="static\images\menubg.gif" />
+    <Content Include="static\images\menubottom.png" />
+    <Content Include="static\images\middenbalk_rechts_hardware.jpg" />
+    <Content Include="static\images\middenbalk_rechts_internet.jpg" />
+    <Content Include="static\images\moederbord.jpg" />
+    <Content Include="static\images\moederbord1.jpg" />
+    <Content Include="static\images\moederbord_klein.jpg" />
+    <Content Include="static\images\ms_duo_adapter.jpg" />
+    <Content Include="static\images\muis-aan-ketting.jpg" />
+    <Content Include="static\images\muis_van_binnen.gif" />
+    <Content Include="static\images\mysql.png" />
+    <Content Include="static\images\navbarbg.gif" />
+    <Content Include="static\images\netwerkics.gif" />
+    <Content Include="static\images\netwerkidentificatie.gif" />
+    <Content Include="static\images\netwerkkaart.gif" />
+    <Content Include="static\images\netwerkkaart1.gif" />
+    <Content Include="static\images\netwerkvebindingen2.gif" />
+    <Content Include="static\images\netwerk_kaart.gif" />
+    <Content Include="static\images\nl_interface.gif" />
+    <Content Include="static\images\nl_logo.gif" />
+    <Content Include="static\images\northbridge.jpg" />
+    <Content Include="static\images\ok.png" />
+    <Content Include="static\images\ol_list.gif" />
+    <Content Include="static\images\one_to_many.gif" />
+    <Content Include="static\images\openbaar_zoeken.png" />
+    <Content Include="static\images\optische_muis.jpg" />
+    <Content Include="static\images\osi_model.gif" />
+    <Content Include="static\images\outlook_big.gif" />
+    <Content Include="static\images\outlook_connection_lost.gif" />
+    <Content Include="static\images\outlook_interface.gif" />
+    <Content Include="static\images\outlook_interface_big.gif" />
+    <Content Include="static\images\outlook_interface_small.gif" />
+    <Content Include="static\images\outlook_interface_small_en.gif" />
+    <Content Include="static\images\outlook_nieuw_account.gif" />
+    <Content Include="static\images\outlook_proces.gif" />
+    <Content Include="static\images\outlook_process.gif" />
+    <Content Include="static\images\pagerank_toolbar.gif" />
+    <Content Include="static\images\patentpicture.png" />
+    <Content Include="static\images\pci_slots.jpg" />
+    <Content Include="static\images\phishingmail.png" />
+    <Content Include="static\images\php.gif" />
+    <Content Include="static\images\pijltje_down.gif" />
+    <Content Include="static\images\pijltje_up.gif" />
+    <Content Include="static\images\pinglocalhost.gif" />
+    <Content Include="static\images\pingresult.gif" />
+    <Content Include="static\images\pingrouter.gif" />
+    <Content Include="static\images\pingtu.gif" />
+    <Content Include="static\images\pink_star.png" />
+    <Content Include="static\images\platform_uitschakelen.png" />
+    <Content Include="static\images\pop3_process.gif" />
+    <Content Include="static\images\pop3_settings.gif" />
+    <Content Include="static\images\portforward.gif" />
+    <Content Include="static\images\portmap.gif" />
+    <Content Include="static\images\pr.jpg" />
+    <Content Include="static\images\primaire_sleutel.gif" />
+    <Content Include="static\images\primaire_sleutel_klant.gif" />
+    <Content Include="static\images\providers_banner.gif" />
+    <Content Include="static\images\prullie.gif" />
+    <Content Include="static\images\putty.gif" />
+    <Content Include="static\images\pvlogo.gif" />
+    <Content Include="static\images\quotedsearch.gif" />
+    <Content Include="static\images\rack_server.jpg" />
+    <Content Include="static\images\ram.jpg" />
+    <Content Include="static\images\ram_geheugen.jpg" />
+    <Content Include="static\images\readmore_bullet.gif" />
+    <Content Include="static\images\remote.gif" />
+    <Content Include="static\images\resultaat.gif" />
+    <Content Include="static\images\robot.jpg" />
+    <Content Include="static\images\rode_telefoon.jpg" />
+    <Content Include="static\images\router.gif" />
+    <Content Include="static\images\router_in_netwerk.gif" />
+    <Content Include="static\images\router_klein.jpg" />
+    <Content Include="static\images\router_modemrouter.gif" />
+    <Content Include="static\images\rub.jpg" />
+    <Content Include="static\images\samsung_ssd.jpg" />
+    <Content Include="static\images\scannen.png" />
+    <Content Include="static\images\sdxs.jpg" />
+    <Content Include="static\images\selectie_voor_grafiek.gif" />
+    <Content Include="static\images\selection.jpg" />
+    <Content Include="static\images\select_html.gif" />
+    <Content Include="static\images\server_type_window.gif" />
+    <Content Include="static\images\set_privacy_level.png" />
+    <Content Include="static\images\set_privacy_settings_pre.png" />
+    <Content Include="static\images\sg_logo.gif" />
+    <Content Include="static\images\shinybgtop.gif" />
+    <Content Include="static\images\show_formula.gif" />
+    <Content Include="static\images\simpele_tabel.gif" />
+    <Content Include="static\images\simpele_tabel_klantnummer.gif" />
+    <Content Include="static\images\skypeout.gif" />
+    <Content Include="static\images\sleutels_contact.gif" />
+    <Content Include="static\images\smc_port_forwarding.gif" />
+    <Content Include="static\images\smileys\iplog.txt" />
+    <Content Include="static\images\smileys\nosmile.gif" />
+    <Content Include="static\images\smileys\pompom.gif" />
+    <Content Include="static\images\software_routing.gif" />
+    <Content Include="static\images\spacer.gif" />
+    <Content Include="static\images\spacer.jpg" />
+    <Content Include="static\images\space_buttons.gif" />
+    <Content Include="static\images\spam.gif" />
+    <Content Include="static\images\spam_inbox.jpg" />
+    <Content Include="static\images\spam_klein.gif" />
+    <Content Include="static\images\ssd_open.jpg" />
+    <Content Include="static\images\ssd_samsung.jpg" />
+    <Content Include="static\images\staat.gif" />
+    <Content Include="static\images\static_ip.gif" />
+    <Content Include="static\images\static_ip_klein.gif" />
+    <Content Include="static\images\structuur.gif" />
+    <Content Include="static\images\sum.gif" />
+    <Content Include="static\images\switch.jpg" />
+    <Content Include="static\images\systeemconfig.gif" />
+    <Content Include="static\images\systeemenbeveiliging.png" />
+    <Content Include="static\images\tabel.gif" />
+    <Content Include="static\images\tabel_communicatietype.gif" />
+    <Content Include="static\images\tabel_geavanceerd.gif" />
+    <Content Include="static\images\table1.gif" />
+    <Content Include="static\images\table2.gif" />
+    <Content Include="static\images\tables_access.gif" />
+    <Content Include="static\images\tagging.jpg" />
+    <Content Include="static\images\taskmanager-performance.gif" />
+    <Content Include="static\images\taskmanager.gif" />
+    <Content Include="static\images\tcpip.gif" />
+    <Content Include="static\images\tcpip_install.gif" />
+    <Content Include="static\images\tcpip_install1.gif" />
+    <Content Include="static\images\tcpip_install3.gif" />
+    <Content Include="static\images\tcp_ip.gif" />
+    <Content Include="static\images\tcp_ip_xp_2000.gif" />
+    <Content Include="static\images\tcp_ip_xp_2000_protocol.gif" />
+    <Content Include="static\images\tekstentuilegforum.gif" />
+    <Content Include="static\images\tekstenuitleg.net.gif" />
+    <Content Include="static\images\template.gif" />
+    <Content Include="static\images\test_account_settings.gif" />
+    <Content Include="static\images\themapyramide1.gif" />
+    <Content Include="static\images\themapyramide2.gif" />
+    <Content Include="static\images\themapyramide_klein.gif" />
+    <Content Include="static\images\three_r2_c1.jpg" />
+    <Content Include="static\images\three_r2_c2.jpg" />
+    <Content Include="static\images\three_r3_c1.jpg" />
+    <Content Include="static\images\three_r3_c1_r2_c1.jpg" />
+    <Content Include="static\images\three_r3_c1_r2_c2.jpg" />
+    <Content Include="static\images\three_r3_c1_r3_c1.jpg" />
+    <Content Include="static\images\thuisnetwerk.gif" />
+    <Content Include="static\images\thuisnetwerk_2pc.gif" />
+    <Content Include="static\images\thuisnetwerk_internet.gif" />
+    <Content Include="static\images\top.jpg" />
+    <Content Include="static\images\topbackground.gif" />
+    <Content Include="static\images\topbarbg.gif" />
+    <Content Include="static\images\topbg.gif" />
+    <Content Include="static\images\topfoto.jpg" />
+    <Content Include="static\images\topfoto1.jpg" />
+    <Content Include="static\images\topfoto2.jpg" />
+    <Content Include="static\images\tophd.jpg" />
+    <Content Include="static\images\topphoto_frontpage.jpg" />
+    <Content Include="static\images\topphoto_hardware.jpg" />
+    <Content Include="static\images\topphoto_internet.jpg" />
+    <Content Include="static\images\topphoto_netwerken.jpg" />
+    <Content Include="static\images\topphoto_software.jpg" />
+    <Content Include="static\images\top_bar_hardware.jpg" />
+    <Content Include="static\images\top_forum_logo.jpg" />
+    <Content Include="static\images\top_internet.jpg" />
+    <Content Include="static\images\top_pic.jpg" />
+    <Content Include="static\images\top_pic_hardware.jpg" />
+    <Content Include="static\images\top_pic_hardware2.jpg" />
+    <Content Include="static\images\top_rechts.jpg" />
+    <Content Include="static\images\top_webhosting.jpg" />
+    <Content Include="static\images\tracker_bullet.gif" />
+    <Content Include="static\images\tridata_mini.gif" />
+    <Content Include="static\images\tulogo.gif" />
+    <Content Include="static\images\tussen_webh_links.jpg" />
+    <Content Include="static\images\tussen_webh_rechts.jpg" />
+    <Content Include="static\images\tuutje.gif" />
+    <Content Include="static\images\tw.gif" />
+    <Content Include="static\images\uitbreiden.gif" />
+    <Content Include="static\images\uitbreiden2.gif" />
+    <Content Include="static\images\ul_list.gif" />
+    <Content Include="static\images\vdsl.png" />
+    <Content Include="static\images\veel_op_veel.gif" />
+    <Content Include="static\images\verwijderen.gif" />
+    <Content Include="static\images\vga.jpg" />
+    <Content Include="static\images\videokaart.jpg" />
+    <Content Include="static\images\voetballers.gif" />
+    <Content Include="static\images\webserver_config.gif" />
+    <Content Include="static\images\webserver_console.gif" />
+    <Content Include="static\images\webserver_gen.gif" />
+    <Content Include="static\images\webserver_main.gif" />
+    <Content Include="static\images\webshopdb.jpg" />
+    <Content Include="static\images\website_logo.gif" />
+    <Content Include="static\images\website_maken.gif" />
+    <Content Include="static\images\website_structuur.gif" />
+    <Content Include="static\images\webwinkel_tabel.gif" />
+    <Content Include="static\images\wificard.jpg" />
+    <Content Include="static\images\wifipci.jpg" />
+    <Content Include="static\images\wifirouter.jpg" />
+    <Content Include="static\images\wifi_connections.gif" />
+    <Content Include="static\images\wifi_connections_small.gif" />
+    <Content Include="static\images\wireless_networks.gif" />
+    <Content Include="static\images\wireless_networks_small.gif" />
+    <Content Include="static\images\wireless_network_props.gif" />
+    <Content Include="static\images\wire_teapot.gif" />
+    <Content Include="static\images\withthreads.gif" />
+    <Content Include="static\images\wnetwork.gif" />
+    <Content Include="static\images\woonbanner.jpg" />
+    <Content Include="static\images\WPA_instellen.gif" />
+    <Content Include="static\images\wrtg54_basic_setup.gif" />
+    <Content Include="static\images\wrtg54_basic_setup_klein.gif" />
+    <Content Include="static\images\wrtg54_wireless_settings.gif" />
+    <Content Include="static\images\wrtg54_wireless_settings_kl.gif" />
+    <Content Include="static\images\xdgeheugenkaarten.jpg" />
+    <Content Include="static\images\zoeken.gif" />
+    <Content Include="static\images\zoekeninsite.gif" />
+    <Content Include="static\images\zoekmachine-optimalisatie-m.gif" />
+    <Content Include="static\images\zoekmachine-resultaten.jpg" />
+    <Content Include="static\images\zonealarm.png" />
+    <Content Include="static\img\article-list-bullet.png" />
+    <Content Include="static\img\bg.jpg" />
+    <Content Include="static\img\excelbg.jpg" />
+    <Content Include="static\img\menu-collapsed.png" />
+    <Content Include="static\img\menu-expanded.png" />
+    <Content Include="static\img\menu-leaf.png" />
+    <Content Include="static\img\navbg.jpg" />
+    <Content Include="static\img\navbg.png" />
+    <Content Include="static\img\sidebar_bg.png" />
+    <Content Include="usercontrols\ArticlePagination.ascx" />
+    <Content Include="usercontrols\ArticlePaginationItem.ascx" />
+    <Content Include="usercontrols\BodyText.ascx" />
+    <Content Include="usercontrols\ArticleImporter.ascx" />
+    <Content Include="usercontrols\ArticleListItemControl.ascx" />
+    <Content Include="usercontrols\ArticleMenu.ascx" />
+    <Content Include="usercontrols\ArticleMenuItem.ascx" />
+    <Content Include="usercontrols\BlogComment.ascx" />
+    <Content Include="usercontrols\BlogComments.ascx" />
+    <Content Include="usercontrols\BlogList.ascx" />
+    <Content Include="usercontrols\BlogListItem.ascx" />
+    <Content Include="usercontrols\CategoryArticleList.ascx" />
+    <Content Include="usercontrols\FlashMovie.ascx" />
+    <Content Include="usercontrols\FlowplayerVideo.ascx" />
+    <Content Include="usercontrols\Footer.ascx" />
+    <Content Include="usercontrols\HeaderNavigation.ascx" />
+    <Content Include="usercontrols\HeaderNavItem.ascx" />
+    <Content Include="usercontrols\ImageWithCaption.ascx" />
+    <Content Include="usercontrols\IPBlocker.ascx" />
+    <Content Include="usercontrols\MostReadArticleList.ascx" />
+    <Content Include="usercontrols\PageTitle.ascx" />
+    <Content Include="usercontrols\RelatedContent.ascx" />
+    <Content Include="usercontrols\RelatedContentItem.ascx" />
+    <Content Include="usercontrols\ThemeItem.ascx" />
+    <Content Include="usercontrols\ThemeList.ascx" />
+    <Content Include="usercontrols\ThemePickerDataType.ascx" />
+    <Content Include="usercontrols\UmbracoRelatedLinkItem.ascx" />
+    <Content Include="usercontrols\UpdateSiteButton.ascx" />
+    <None Include="Web.config.prod">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web.config">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="ImageGen.ashx" />
+    <Content Include="xslt\SyntaxHighlighter.xslt" />
+    <Content Include="xslt\Image.xslt">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="xslt\FlashMovie.xslt">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="tekstenuitleg.log" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="business_logic\business_objects\ArticleBo.cs" />
+    <Compile Include="business_logic\business_objects\BlogBo.cs" />
+    <Compile Include="business_logic\business_objects\BusinessFactory.cs" />
+    <Compile Include="business_logic\business_objects\CategoryBo.cs" />
+    <Compile Include="business_logic\business_objects\GenericNodeBo.cs" />
+    <Compile Include="business_logic\business_objects\IArticleBo.cs" />
+    <Compile Include="business_logic\business_objects\IBlogBo.cs" />
+    <Compile Include="business_logic\business_objects\ICategoryBo.cs" />
+    <Compile Include="business_logic\business_objects\IGenericNodeBo.cs" />
+    <Compile Include="business_logic\business_objects\ISecurityBo.cs" />
+    <Compile Include="business_logic\business_objects\IThemeBo.cs" />
+    <Compile Include="business_logic\business_objects\ThemeBo.cs" />
+    <Compile Include="business_logic\entitities\ArticleListItem.cs" />
+    <Compile Include="business_logic\entitities\BasicNode.cs" />
+    <Compile Include="business_logic\entitities\ThemeListItem.cs" />
+    <Compile Include="business_logic\entitities\UmbracoFile.cs" />
+    <Compile Include="business_logic\entitities\UmbracoImage.cs" />
+    <Compile Include="business_logic\entitities\UmbracoRelatedLink.cs" />
+    <Compile Include="business_logic\business_objects\SecurityBo.cs" />
+    <Compile Include="data_logic\ArticleDao.cs" />
+    <Compile Include="data_logic\GenericNodeDao.cs" />
+    <Compile Include="data_logic\IArticleDao.cs" />
+    <Compile Include="data_logic\IGenericNodeDao.cs" />
+    <Compile Include="data_logic\DaoFactory.cs" />
+    <Compile Include="data_logic\UmbracoDaoFactory.cs" />
+    <Compile Include="masterpages\404Page.Master.cs">
+      <DependentUpon>404Page.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="masterpages\404Page.Master.designer.cs">
+      <DependentUpon>404Page.Master</DependentUpon>
+    </Compile>
+    <Compile Include="masterpages\Category.Master.cs">
+      <DependentUpon>Category.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="masterpages\Category.Master.designer.cs">
+      <DependentUpon>Category.Master</DependentUpon>
+    </Compile>
+    <Compile Include="masterpages\Homepage.Master.cs">
+      <DependentUpon>Homepage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="masterpages\Homepage.Master.designer.cs">
+      <DependentUpon>Homepage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="masterpages\Master.Master.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="masterpages\Master.Master.designer.cs">
+      <DependentUpon>Master.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="settings\Settings.cs" />
+    <Compile Include="settings\SettingsData.cs" />
+    <Compile Include="usercontrols\ArticlePagination.ascx.cs">
+      <DependentUpon>ArticlePagination.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ArticlePagination.ascx.designer.cs">
+      <DependentUpon>ArticlePagination.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ArticlePaginationItem.ascx.cs">
+      <DependentUpon>ArticlePaginationItem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ArticlePaginationItem.ascx.designer.cs">
+      <DependentUpon>ArticlePaginationItem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\BodyText.ascx.cs">
+      <DependentUpon>BodyText.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\BodyText.ascx.designer.cs">
+      <DependentUpon>BodyText.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ArticleImporter.ascx.cs">
+      <DependentUpon>ArticleImporter.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ArticleImporter.ascx.designer.cs">
+      <DependentUpon>ArticleImporter.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ArticleListItemControl.ascx.cs">
+      <DependentUpon>ArticleListItemControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ArticleListItemControl.ascx.designer.cs">
+      <DependentUpon>ArticleListItemControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ArticleMenu.ascx.cs">
+      <DependentUpon>ArticleMenu.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ArticleMenu.ascx.designer.cs">
+      <DependentUpon>ArticleMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ArticleMenuItem.ascx.cs">
+      <DependentUpon>ArticleMenuItem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ArticleMenuItem.ascx.designer.cs">
+      <DependentUpon>ArticleMenuItem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\BlogComment.ascx.cs">
+      <DependentUpon>BlogComment.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\BlogComment.ascx.designer.cs">
+      <DependentUpon>BlogComment.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\BlogComments.ascx.cs">
+      <DependentUpon>BlogComments.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\BlogComments.ascx.designer.cs">
+      <DependentUpon>BlogComments.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\BlogList.ascx.cs">
+      <DependentUpon>BlogList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\BlogList.ascx.designer.cs">
+      <DependentUpon>BlogList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\BlogListItem.ascx.cs">
+      <DependentUpon>BlogListItem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\BlogListItem.ascx.designer.cs">
+      <DependentUpon>BlogListItem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\CategoryArticleList.ascx.cs">
+      <DependentUpon>CategoryArticleList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\CategoryArticleList.ascx.designer.cs">
+      <DependentUpon>CategoryArticleList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\FlashMovie.ascx.cs">
+      <DependentUpon>FlashMovie.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\FlashMovie.ascx.designer.cs">
+      <DependentUpon>FlashMovie.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\FlowplayerVideo.ascx.cs">
+      <DependentUpon>FlowplayerVideo.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\FlowplayerVideo.ascx.designer.cs">
+      <DependentUpon>FlowplayerVideo.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\Footer.ascx.cs">
+      <DependentUpon>Footer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\Footer.ascx.designer.cs">
+      <DependentUpon>Footer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\HeaderNavigation.ascx.cs">
+      <DependentUpon>HeaderNavigation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\HeaderNavigation.ascx.designer.cs">
+      <DependentUpon>HeaderNavigation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\HeaderNavItem.ascx.cs">
+      <DependentUpon>HeaderNavItem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\HeaderNavItem.ascx.designer.cs">
+      <DependentUpon>HeaderNavItem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ImageWithCaption.ascx.cs">
+      <DependentUpon>ImageWithCaption.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ImageWithCaption.ascx.designer.cs">
+      <DependentUpon>ImageWithCaption.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\IPBlocker.ascx.cs">
+      <DependentUpon>IPBlocker.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\IPBlocker.ascx.designer.cs">
+      <DependentUpon>IPBlocker.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\MostReadArticleList.ascx.cs">
+      <DependentUpon>MostReadArticleList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\MostReadArticleList.ascx.designer.cs">
+      <DependentUpon>MostReadArticleList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\PageTitle.ascx.cs">
+      <DependentUpon>PageTitle.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\PageTitle.ascx.designer.cs">
+      <DependentUpon>PageTitle.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\RelatedContent.ascx.cs">
+      <DependentUpon>RelatedContent.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\RelatedContent.ascx.designer.cs">
+      <DependentUpon>RelatedContent.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\RelatedContentItem.ascx.cs">
+      <DependentUpon>RelatedContentItem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\RelatedContentItem.ascx.designer.cs">
+      <DependentUpon>RelatedContentItem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ThemeItem.ascx.cs">
+      <DependentUpon>ThemeItem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ThemeItem.ascx.designer.cs">
+      <DependentUpon>ThemeItem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ThemeList.ascx.cs">
+      <DependentUpon>ThemeList.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ThemeList.ascx.designer.cs">
+      <DependentUpon>ThemeList.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\ThemePickerDataType.ascx.cs">
+      <DependentUpon>ThemePickerDataType.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\ThemePickerDataType.ascx.designer.cs">
+      <DependentUpon>ThemePickerDataType.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\UmbracoRelatedLinkItem.ascx.cs">
+      <DependentUpon>UmbracoRelatedLinkItem.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\UmbracoRelatedLinkItem.ascx.designer.cs">
+      <DependentUpon>UmbracoRelatedLinkItem.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="usercontrols\UpdateSiteButton.ascx.cs">
+      <DependentUpon>UpdateSiteButton.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="usercontrols\UpdateSiteButton.ascx.designer.cs">
+      <DependentUpon>UpdateSiteButton.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="util\AdsenseUtil.cs" />
+    <Compile Include="util\DateUtil.cs" />
+    <Compile Include="util\MacroUtil.cs" />
+    <Compile Include="util\ordering\ArticleOrder.cs" />
+    <Compile Include="util\ordering\HomepageArticleSorter.cs" />
+    <Compile Include="util\ordering\OrderingUtil.cs" />
+    <Compile Include="util\SiteUtil.cs" />
+    <Compile Include="util\UmbracoFieldReader.cs" />
+    <Compile Include="util\validation\CommentMessageValidator.cs" />
+    <Compile Include="util\validation\EmailValidator.cs" />
+    <Compile Include="util\validation\FormValidationResult.cs" />
+    <Compile Include="util\validation\IValidator.cs" />
+    <Compile Include="util\validation\NameValidator.cs" />
+    <Compile Include="util\validation\FieldValidationResult.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="business_logic\repository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="masterpages\ThreeColumnLayout.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="masterpages\Article.master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\404handlers.config" />
+    <Content Include="config\ClientDependency.config" />
+    <Content Include="config\Dashboard.config" />
+    <Content Include="config\ExamineIndex.config" />
+    <Content Include="config\ExamineSettings.config" />
+    <Content Include="config\formHandlers.config" />
+    <Content Include="config\metablogConfig.config" />
+    <Content Include="config\restExtensions.config" />
+    <Content Include="config\scripting.config" />
+    <Content Include="config\Skinning.config" />
+    <Content Include="config\tinyMceConfig.config" />
+    <Content Include="config\umbracoSettings.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="config\UrlRewriting.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="config\xsltExtensions.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="config\ImageGen.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="masterpages\Master.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="masterpages\ArticleImporter.master" />
+    <Content Include="masterpages\Theme.master" />
+    <Content Include="App_Config\Log4net.config" />
+    <Content Include="masterpages\Category.Master" />
+    <Content Include="masterpages\BlogHome.master" />
+    <Content Include="masterpages\BlogPost.master" />
+    <Content Include="masterpages\Theme77.master" />
+    <Content Include="masterpages\Homepage.Master" />
+    <Content Include="masterpages\ContentPage.master" />
+    <Content Include="masterpages\404Page.Master" />
+    <None Include="static\images\admin\Thumbs.db" />
+    <None Include="static\images\inspire\Thumbs.db" />
+    <None Include="static\images\op" />
+    <None Include="static\images\smileys\image.php" />
+    <None Include="static\images\three.php" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57892</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,354 @@
+using System;
+using System.Linq;
+using umbraco.Linq.Core;
+using System.Collections.Generic;
+
+namespace CursusIndex {
+	public partial class CursusIndexDCDataContext : UmbracoDataContext, ICursusIndexDCDataContext {
+		#region Partials
+		partial void OnCreated();
+		#endregion
+		
+		public CursusIndexDCDataContext() : base()
+		{
+			OnCreated();
+		}
+
+		public CursusIndexDCDataContext(UmbracoDataProvider provider) : base(provider)
+		{
+			OnCreated();
+		}
+
+		
+		public Tree<ArticlePage> ArticlePages
+		{
+			get
+			{
+				return this.LoadTree<ArticlePage>();
+			}
+		}
+		IEnumerable<IArticlePage> ICursusIndexDCDataContext.ArticlePages
+		{
+			get
+			{
+				return this.LoadTree<ArticlePage>().OfType<IArticlePage>();
+			}
+		}
+
+		public Tree<Category> Categorys
+		{
+			get
+			{
+				return this.LoadTree<Category>();
+			}
+		}
+		IEnumerable<ICategory> ICursusIndexDCDataContext.Categorys
+		{
+			get
+			{
+				return this.LoadTree<Category>().OfType<ICategory>();
+			}
+		}
+
+		public Tree<GenericPage> GenericPages
+		{
+			get
+			{
+				return this.LoadTree<GenericPage>();
+			}
+		}
+		IEnumerable<IGenericPage> ICursusIndexDCDataContext.GenericPages
+		{
+			get
+			{
+				return this.LoadTree<GenericPage>().OfType<IGenericPage>();
+			}
+		}
+
+		public Tree<Homepage> Homepages
+		{
+			get
+			{
+				return this.LoadTree<Homepage>();
+			}
+		}
+		IEnumerable<IHomepage> ICursusIndexDCDataContext.Homepages
+		{
+			get
+			{
+				return this.LoadTree<Homepage>().OfType<IHomepage>();
+			}
+		}
+
+		public Tree<Page> Pages
+		{
+			get
+			{
+				return this.LoadTree<Page>();
+			}
+		}
+		IEnumerable<IPage> ICursusIndexDCDataContext.Pages
+		{
+			get
+			{
+				return this.LoadTree<Page>().OfType<IPage>();
+			}
+		}
+
+	}
+
+	
+	/// <summary>
+	/// 
+	/// </summary>
+	[UmbracoInfo("ArticlePage")]
+	[System.Runtime.Serialization.DataContractAttribute()]
+	[DocType()]
+	public partial class ArticlePage : Page , IArticlePage {
+		public ArticlePage() {
+		}
+		
+		private String _Teaser;
+		/// <summary>
+		/// 
+		/// </summary>
+		[UmbracoInfo("teaser", DisplayName = "Teaser", Mandatory = true)]
+		[Property()]
+		[System.Runtime.Serialization.DataMemberAttribute()]
+		public virtual String Teaser
+		{
+			get
+			{
+				return this._Teaser;
+			}
+			set
+			{
+				if ((this._Teaser != value))
+				{
+					this.RaisePropertyChanging();
+					this._Teaser = value;
+                    this.IsDirty = true;
+					this.RaisePropertyChanged("Teaser");
+				}
+			}
+		}
+		
+		private AssociationTree<Page> _Pages;
+		public AssociationTree<Page> Pages
+		{
+			get
+			{
+				if ((this._Pages == null))
+				{
+					this._Pages = this.ChildrenOfType<Page>();
+				}
+				return this._Pages;
+			}
+			set
+			{
+				this._Pages = value;
+			}
+		}
+		
+		IEnumerable<IPage> IArticlePage.Pages 
+		{
+			get
+			{
+				return this.Pages.OfType<IPage>();
+			}
+		}
+}
+	/// <summary>
+	/// 
+	/// </summary>
+	[UmbracoInfo("Category")]
+	[System.Runtime.Serialization.DataContractAttribute()]
+	[DocType()]
+	public partial class Category : DocTypeBase , ICategory {
+		public Category() {
+		}
+		
+		private Int32? _Weight;
+		/// <summary>
+		/// 
+		/// </summary>
+		[UmbracoInfo("weight", DisplayName = "Weight", Mandatory = false)]
+		[Property()]
+		[System.Runtime.Serialization.DataMemberAttribute()]
+		public virtual Int32? Weight
+		{
+			get
+			{
+				return this._Weight;
+			}
+			set
+			{
+				if ((this._Weight != value))
+				{
+					this.RaisePropertyChanging();
+					this._Weight = value;
+                    this.IsDirty = true;
+					this.RaisePropertyChanged("Weight");
+				}
+			}
+		}
+		
+		private AssociationTree<ArticlePage> _ArticlePages;
+		public AssociationTree<ArticlePage> ArticlePages
+		{
+			get
+			{
+				if ((this._ArticlePages == null))
+				{
+					this._ArticlePages = this.ChildrenOfType<ArticlePage>();
+				}
+				return this._ArticlePages;
+			}
+			set
+			{
+				this._ArticlePages = value;
+			}
+		}
+		private AssociationTree<Category> _Categorys;
+		public AssociationTree<Category> Categorys
+		{
+			get
+			{
+				if ((this._Categorys == null))
+				{
+					this._Categorys = this.ChildrenOfType<Category>();
+				}
+				return this._Categorys;
+			}
+			set
+			{
+				this._Categorys = value;
+			}
+		}
+		
+		IEnumerable<IArticlePage> ICategory.ArticlePages 
+		{
+			get
+			{
+				return this.ArticlePages.OfType<IArticlePage>();
+			}
+		}
+		IEnumerable<ICategory> ICategory.Categorys 
+		{
+			get
+			{
+				return this.Categorys.OfType<ICategory>();
+			}
+		}
+}
+	/// <summary>
+	/// 
+	/// </summary>
+	[UmbracoInfo("GenericPage")]
+	[System.Runtime.Serialization.DataContractAttribute()]
+	[DocType()]
+	public partial class GenericPage : DocTypeBase , IGenericPage {
+		public GenericPage() {
+		}
+		
+		private String _PageTitle;
+		/// <summary>
+		/// 
+		/// </summary>
+		[UmbracoInfo("pageTitle", DisplayName = "Page Title", Mandatory = true)]
+		[Property()]
+		[System.Runtime.Serialization.DataMemberAttribute()]
+		public virtual String PageTitle
+		{
+			get
+			{
+				return this._PageTitle;
+			}
+			set
+			{
+				if ((this._PageTitle != value))
+				{
+					this.RaisePropertyChanging();
+					this._PageTitle = value;
+                    this.IsDirty = true;
+					this.RaisePropertyChanged("PageTitle");
+				}
+			}
+		}
+		
+		
+}
+	/// <summary>
+	/// 
+	/// </summary>
+	[UmbracoInfo("Homepage")]
+	[System.Runtime.Serialization.DataContractAttribute()]
+	[DocType()]
+	public partial class Homepage : GenericPage , IHomepage {
+		public Homepage() {
+		}
+		
+		
+		private AssociationTree<Category> _Categorys;
+		public AssociationTree<Category> Categorys
+		{
+			get
+			{
+				if ((this._Categorys == null))
+				{
+					this._Categorys = this.ChildrenOfType<Category>();
+				}
+				return this._Categorys;
+			}
+			set
+			{
+				this._Categorys = value;
+			}
+		}
+		
+		IEnumerable<ICategory> IHomepage.Categorys 
+		{
+			get
+			{
+				return this.Categorys.OfType<ICategory>();
+			}
+		}
+}
+	/// <summary>
+	/// 
+	/// </summary>
+	[UmbracoInfo("Page")]
+	[System.Runtime.Serialization.DataContractAttribute()]
+	[DocType()]
+	public partial class Page : GenericPage , IPage {
+		public Page() {
+		}
+		
+		private String _Body;
+		/// <summary>
+		/// 
+		/// </summary>
+		[UmbracoInfo("body", DisplayName = "Body", Mandatory = true)]
+		[Property()]
+		[System.Runtime.Serialization.DataMemberAttribute()]
+		public virtual String Body
+		{
+			get
+			{
+				return this._Body;
+			}
+			set
+			{
+				if ((this._Body != value))
+				{
+					this.RaisePropertyChanging();
+					this._Body = value;
+                    this.IsDirty = true;
+					this.RaisePropertyChanged("Body");
+				}
+			}
+		}
+		
+		
+}
+}

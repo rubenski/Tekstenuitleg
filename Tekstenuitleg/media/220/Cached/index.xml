@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>excel_interface_small.gif</originalFileName>
+    <size>22901</size>
+    <dateLastModified>Fri, 09 Sep 2011 19:01:49 GMT</dateLastModified>
+    <width>500</width>
+    <height>313</height>
+    <cachedImage>
+      <fileName>4zuagv2c.gif</fileName>
+      <dateCreated>Sat, 22 Oct 2011 20:08:22 GMT</dateCreated>
+      <dateLastAccessed>Sat, 22 Oct 2011 20:08:47 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>70</width>
+      <height>70</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>True</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>kyxmb3dw.gif</fileName>
+      <dateCreated>Sat, 22 Oct 2011 20:09:08 GMT</dateCreated>
+      <dateLastAccessed>Sat, 22 Oct 2011 20:10:22 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>80</width>
+      <height>60</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>True</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>ufi2ljjj.gif</fileName>
+      <dateCreated>Sat, 22 Oct 2011 20:10:59 GMT</dateCreated>
+      <dateLastAccessed>Sat, 22 Oct 2011 21:50:26 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>80</width>
+      <height>50</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

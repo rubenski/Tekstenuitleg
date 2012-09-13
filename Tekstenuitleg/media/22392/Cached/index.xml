@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>vostro-1540-right-standard-120x107.jpg</originalFileName>
+    <size>2800</size>
+    <dateLastModified>Thu, 08 Mar 2012 20:51:09 GMT</dateLastModified>
+    <width>120</width>
+    <height>107</height>
+    <cachedImage>
+      <fileName>monenhmb.jpeg</fileName>
+      <dateCreated>Thu, 08 Mar 2012 21:15:02 GMT</dateCreated>
+      <dateLastAccessed>Mon, 02 Apr 2012 20:26:53 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>76</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

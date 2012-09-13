@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>wifi-router.jpg</originalFileName>
+    <size>9278</size>
+    <dateLastModified>Thu, 08 Mar 2012 20:50:01 GMT</dateLastModified>
+    <width>300</width>
+    <height>225</height>
+    <cachedImage>
+      <fileName>ca5an54v.jpeg</fileName>
+      <dateCreated>Thu, 08 Mar 2012 21:07:00 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 22:00:15 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>64</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

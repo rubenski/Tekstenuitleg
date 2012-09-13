@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/ThreeColumnLayout.master" AutoEventWireup="true" %>
+<%@ Import Namespace="umbraco.NodeFactory" %>
+
+
+<asp:Content ContentPlaceHolderID="HeaderCPH" runat="server">
+    <div id="section-header">
+        <div id="headerText">
+             <h1>
+                Blog
+            </h1>
+            <span id="categorySubheading"><%=Node.GetCurrent().GetProperty("introText").Value %></span>
+        </div>
+    </div>
+</asp:Content>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="LeftCPH" runat="server">
+
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="CenterCPH" runat="server">
+    <umbraco:Macro Alias="BlogList" runat="server" SnippetSize="800"></umbraco:Macro>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderID="RightCPH" runat="server">
+
+</asp:Content>

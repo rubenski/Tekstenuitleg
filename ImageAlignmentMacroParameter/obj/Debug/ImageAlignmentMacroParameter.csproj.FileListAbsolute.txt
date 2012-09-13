@@ -1,0 +1,9 @@
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\bin\Debug\ImageAlignmentMacroParameter.dll
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\bin\Debug\ImageAlignmentMacroParameter.pdb
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\bin\Debug\businesslogic.dll
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\bin\Debug\cms.dll
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\bin\Debug\interfaces.dll
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\bin\Debug\umbraco.dll
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\obj\Debug\ResolveAssemblyReference.cache
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\obj\Debug\ImageAlignmentMacroParameter.dll
+C:\PROJECTS\Tekstenuitleg\Application\ImageAlignmentMacroParameter\obj\Debug\ImageAlignmentMacroParameter.pdb

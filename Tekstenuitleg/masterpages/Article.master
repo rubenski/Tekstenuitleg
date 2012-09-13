@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/ThreeColumnLayout.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderId="HeadCPH" runat="server">
+  <meta http-equiv="description" content="<umbraco:Item field="metaDescription" runat="server" />"/>
+  <meta http-equiv="keywords" content="<umbraco:Item ID="Item1" field="metaKeywords" runat="server" />"/>
+  <link rel="stylesheet" href="/css/TextStyles.css" type="text/css" />
+</asp:Content>
+  
+<asp:Content ContentPlaceHolderId="LeftCPH" runat="server">
+  <umbraco:Macro Alias="ArticleMenu" runat="server"></umbraco:Macro>
+  
+
+<% if (Request.RequestContext.HttpContext.Items["showAdsense"].Equals("1"))
+   { %>
+   <div id="adsenseLeft">
+  <script type="text/javascript"><!--
+      google_ad_client = "ca-pub-4003168380759642";
+      /* Links onder artikelnavigatie */
+      google_ad_slot = "9460535197";
+      google_ad_width = 180;
+      google_ad_height = 150;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<% } %>
+    
+    <umbraco:Macro ID="Macro1" Alias="RelatedContent" runat="server" /> 
+</asp:Content>
+
+<asp:content ContentPlaceHolderId="CenterCPH" runat="server">
+  <div id="article-body">
+      <h1><umbraco:Item field="pageTitle" runat="server"></umbraco:Item></h1>
+      <umbraco:Item field="articleStartHeader" insertTextBefore="&lt;p class=&quot;articleStart&quot;&gt;" insertTextAfter="&lt;/p&gt;" runat="server"></umbraco:Item>
+      <umbraco:Macro Alias="BodyText" runat="server"></umbraco:Macro>
+
+      <% if (Request.RequestContext.HttpContext.Items["showAdsense"].Equals("1"))
+         { %>
+
+      <div class="adsenseMiddle">
+      <script type="text/javascript"><!--
+          google_ad_client = "ca-pub-4003168380759642";
+          /* Grote rechthoek onderaan artikelpagina */
+          google_ad_slot = "1423109090";
+          google_ad_width = 336;
+          google_ad_height = 280;
+            //-->
+            </script>
+            <script type="text/javascript"
+            src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+        </div>
+        <% } %>
+
+      <umbraco:Macro Alias="ArticlePagination" runat="server"></umbraco:Macro>
+  </div>
+</asp:content>
+
+<asp:content ContentPlaceHolderId="RightCPH" runat="server">
+  
+</asp:content>
+  

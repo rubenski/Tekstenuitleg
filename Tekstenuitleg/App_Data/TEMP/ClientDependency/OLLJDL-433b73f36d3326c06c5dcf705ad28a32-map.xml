@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs=" file="D:\WEB\CursusIndex\CursusIndex\App_Data\TEMP\ClientDependency\1_6b4075afe0524ab594462e8317aa9ec0.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\CursusIndex\CursusIndex\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\WEB\CursusIndex\CursusIndex\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\WEB\CursusIndex\CursusIndex\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\WEB\CursusIndex\CursusIndex\umbraco_client\panel\style.css" />
+      <file name="D:\WEB\CursusIndex\CursusIndex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\CursusIndex\CursusIndex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\CursusIndex\CursusIndex\umbraco\css\umbracoGui.css" />
+    </files>
+  </item>
+</map>

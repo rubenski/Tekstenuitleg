@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Master.master" AutoEventWireup="true" CodeBehind="Homepage.master.cs" Inherits="Tekstenuitleg.masterpages.Homepage" %>
+
+
+  
+<asp:Content ContentPlaceHolderId="MainCPH" runat="server">
+    <div id="homepageArticleList">
+        <h1 class="homepageHeader"><%= HomepageNode.GetProperty("articleListHeader").Value %></h1>
+        <umbraco:Macro ID="Macro1" Alias="MostReadArticleList" runat="server"></umbraco:Macro>
+    </div>
+    <div id="homepageBlogList">
+        <h1 class="homepageHeader"><%= HomepageNode.GetProperty("blogListHeader").Value %></h1>
+        <umbraco:Macro ID="Macro2" Alias="BlogList" SnippetSize="200" NumberOfPosts="5" runat="server"></umbraco:Macro>    
+    </div>
+</asp:Content>

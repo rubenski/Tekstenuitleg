@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>access-logo.png</originalFileName>
+    <size>72505</size>
+    <dateLastModified>Thu, 08 Mar 2012 20:51:45 GMT</dateLastModified>
+    <width>225</width>
+    <height>221</height>
+    <cachedImage>
+      <fileName>k0fsumym.png</fileName>
+      <dateCreated>Thu, 08 Mar 2012 21:07:05 GMT</dateCreated>
+      <dateLastAccessed>Mon, 02 Apr 2012 20:29:16 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <width>85</width>
+      <height>83</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

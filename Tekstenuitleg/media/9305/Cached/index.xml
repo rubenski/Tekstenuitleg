@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>videokaart.jpg</originalFileName>
+    <size>11720</size>
+    <dateLastModified>Mon, 12 Dec 2011 21:11:33 GMT</dateLastModified>
+    <width>250</width>
+    <height>188</height>
+    <cachedImage>
+      <fileName>zs1mbcs2.jpeg</fileName>
+      <dateCreated>Mon, 12 Dec 2011 21:17:56 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 20:50:50 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>64</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>t0vslkea.jpeg</fileName>
+      <dateCreated>Fri, 30 Dec 2011 14:50:22 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 10:26:02 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>250</width>
+      <height>188</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

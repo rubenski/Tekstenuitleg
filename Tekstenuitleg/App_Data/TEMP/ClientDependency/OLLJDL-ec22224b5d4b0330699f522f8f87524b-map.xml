@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY29fY2xpZW50L1RyZWUvdHJlZUljb25zLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS9tZW51SWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvL2Nzcy91bWJyYWNvR3VpLmNzczs=" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_3cf34cd5bff6447b8fc415f7bdfa36a2.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\menuIcons.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco\css\umbracoGui.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL2pRdWVyeS9qcXVlcnkuYmEtYmJxLm1pbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0FwcGxpY2F0aW9uQWN0aW9ucy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSGlzdG9yeU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9qcXVlcnkuc2ltcGxlbW9kYWwuMS40LjEuY3VzdG9tLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9KUXVlcnkvanF1ZXJ5Lm1ldGFkYXRhLm1pbi5qczsvdW1icmFjb19jbGllbnQvbW9kYWwvbW9kYWwuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvTm9kZURlZmluaXRpb24uanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY2hlY2tib3guanM7L3VtYnJhY29fY2xpZW50L1RyZWUvanF1ZXJ5LnRyZWUuY29udGV4dG1lbnUuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb0NvbnRleHQuanM7L3VtYnJhY29fY2xpZW50L1RyZWUvVW1icmFjb1RyZWUuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjby9TZWFyY2gvcXVpY2tTZWFyY2guanM7L3VtYnJhY28vanMvZ3VpRnVuY3Rpb25zLmpzOy91bWJyYWNvL2pzL1VtYnJhY29TcGVlY2hCdWJibGVCYWNrZW5kLmpzOy91bWJyYWNvL2pzL2xhbmd1YWdlLmFzcHg7L3VtYnJhY29fY2xpZW50L3VpL2pRdWVyeVdyZXNpemUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL0pRdWVyeS9qcXVlcnkuYXV0b2NvbXBsZXRlLmpzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_7207f69ac1a74902bf05ab1abbb31726.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.ba-bbq.min.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\HistoryManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\jquery.simplemodal.1.4.1.custom.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\JQuery\jquery.metadata.min.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\jquery.tree.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\NodeDefinition.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\jquery.tree.checkbox.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\jquery.tree.contextmenu.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\UmbracoContext.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\UmbracoTree.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco\Search\quickSearch.js" />
+      <file name="D:\WEB\cursusindex\umbraco\js\guiFunctions.js" />
+      <file name="D:\WEB\cursusindex\umbraco\js\UmbracoSpeechBubbleBackend.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jQueryWresize.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\JQuery\jquery.autocomplete.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_a2f88efbc9b34544a995ab23daff980a.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvcGFzc3dvcmRTdHJlbmd0aC9wYXNzd29yZHN0cmVuZ3RoLmpzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczs=" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_68d185b82a3b491aa412e27365d7c06a.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\passwordStrength\passwordstrength.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_311a5c46fde3413882077798c1deca42.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_01d9841329104e54bdb63917a9ffe3b7.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_d0ab8e026afb4584a88c5ef27941fac0.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9HZW5lcmljUHJvcGVydHkvZ2VuZXJpY3Byb3BlcnR5LmNzczsvdW1icmFjb19jbGllbnQvdWkvZGQuY3NzOy91bWJyYWNvX2NsaWVudC9UcmVlL1RoZW1lcy91bWJyYWNvL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvVHJlZS90cmVlSWNvbnMuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9wcm9wZXJ0eXBhbmUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_7a68edb21c3b48f7beb4521306f81a77.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\GenericProperty\genericproperty.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\dd.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\Themes\umbraco\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Tree\treeIcons.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnkuZGQuanM7L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjby9qcy9VbWJyYWNvQ2FzaW5nUnVsZXMuYXNweDs=" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_6081d80576a749babd84d93c571d005c.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.dd.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\GenericProperty\genericproperty.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvcGFuZWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc3BsaXRidXR0b24vc3BsaXRidXR0b24uY3NzOy91bWJyYWNvX2NsaWVudC9Db2RlQXJlYS9zdHlsZXMuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_f8a07e6d775d477986c2760e01ca4ab8.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\menuicon\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\splitbutton\splitbutton.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\CodeArea\styles.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvdWkvanF1ZXJ5dWkuanM7L3VtYnJhY29fY2xpZW50L3NwbGl0YnV0dG9uL2pxdWVyeS5zcGxpdGJ1dHRvbi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29VdGlscy5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L21vZGFsL21vZGFsLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9qUXVlcnkvanF1ZXJ5LWZpZWxkc2VsZWN0aW9uLmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L3BhbmVsL2phdmFzY3JpcHQuanM7L3VtYnJhY29fY2xpZW50L0NvZGVNaXJyb3IvanMvY29kZW1pcnJvci5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvVW1icmFjb0VkaXRvci5qczsvdW1icmFjb19jbGllbnQvQ29kZUFyZWEvamF2YXNjcmlwdC5qczs=" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_aaa313aad7ea4df0b29680685bfcd305.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\splitbutton\jquery.splitbutton.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery-fieldselection.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\CodeMirror\js\codemirror.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\CodeArea\UmbracoEditor.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\CodeArea\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7L3VtYnJhY29fY2xpZW50L3RhYnZpZXcvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_a8fb1d9e6cd34c5aa2e3fee05d662a1c.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\menuicon\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_94acddd9661f4917898a3b8cd9b4526f.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\DateTimePicker\timepicker.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vVW1icmFjb0NsaWVudE1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczs=" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_87ea598a444243f99a5db8fdfbf1c2f4.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco\js\umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_3674ac189c6048a0a5f0a2f5294b46fe.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_f48d1cb178ba47ed86ffebf92f7394b9.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjby9qcy91bWJyYWNvQ2hlY2tLZXlzLmpzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_6c93ccc1fbc44cef9a01d157300ab703.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco\js\umbracoCheckKeys.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL2RhdGV0aW1lcGlja2VyLmNzczsvdW1icmFjb19jbGllbnQvcHJvcGVydHlwYW5lL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9tZW51aWNvbi9zdHlsZS5jc3M7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_92da09c2e7414581887dab61b982f02a.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\DateTimePicker\datetimepicker.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvL2pzL3VtYnJhY29DaGVja0tleXMuanM7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvRGF0ZVRpbWVQaWNrZXIvdW1iRGF0ZVRpbWVQaWNrZXIuanM7L3VtYnJhY29fY2xpZW50L0RhdGVUaW1lUGlja2VyL3RpbWVwaWNrZXIuanM7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_aa19cb7fc25c424f93f0cebac65a4a29.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco\js\umbracoCheckKeys.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\DateTimePicker\umbDateTimePicker.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\DateTimePicker\timepicker.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9EYXRlVGltZVBpY2tlci9kYXRldGltZXBpY2tlci5jc3M7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_060f40721e224c35a0c21db1828c5a6b.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\menuicon\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\DateTimePicker\datetimepicker.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L21lbnVpY29uL3N0eWxlLmNzczs=" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_20387af207d84db080b20c8198204b4c.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvcGFuZWwvamF2YXNjcmlwdC5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_bf21c801509f4653a4aeacfd1156be63.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdGFidmlldy9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmNzczsvdW1icmFjb19jbGllbnQvbW9kYWwvc3R5bGUuY3NzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_cef6a2cd7beb4211b86ff693b078915b.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC90YWJ2aWV3L3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7L3VtYnJhY29fY2xpZW50L21vZGFsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvbWVudWljb24vc3R5bGUuY3NzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_a829cf5a3c11410ab4804f7b8bc2ba94.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\menuicon\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_19354222fa0843dbae71791f2196bddd.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3Njcm9sbGluZ21lbnUvc3R5bGUuY3NzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3Byb3BlcnR5cGFuZS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9zdHlsZS5jc3M7" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_ee54cbe8061642e5bb11f2f3e07f4d69.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\propertypane\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\style.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vTmFtZXNwYWNlTWFuYWdlci5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24valF1ZXJ5L2pxdWVyeS5jb29raWUuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeXVpLmpzOy91bWJyYWNvX2NsaWVudC9BcHBsaWNhdGlvbi9VbWJyYWNvVXRpbHMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29BcHBsaWNhdGlvbkFjdGlvbnMuanM7L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL1VtYnJhY29DbGllbnRNYW5hZ2VyLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9tb2RhbC9tb2RhbC5qczsvdW1icmFjb19jbGllbnQvdGFidmlldy9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9zY3JvbGxpbmdtZW51L2phdmFzY3JpcHQuanM7L3VtYnJhY28vanMvZHVhbFNlbGVjdEJveC5qczs=" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_c08d2a744b244105b9dd653280dff9f2.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\NamespaceManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\jQuery\jquery.cookie.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoUtils.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoApplicationActions.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\Application\UmbracoClientManager.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\modal\modal.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\tabview\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco\js\dualSelectBox.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3BhbmVsL3N0eWxlLmNzczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9zdHlsZS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuY3NzOw==" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_d4995982a660426c8db8189532dadb19.cdC" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\style.css" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvc2Nyb2xsaW5nbWVudS9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC9wYW5lbC9qYXZhc2NyaXB0LmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC91aS9qcXVlcnl1aS5qczs=" file="D:\WEB\cursusindex\App_Data\TEMP\ClientDependency\1_1d724a72c1464b2eaa2141a63ff7d6d2.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jquery.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\scrollingmenu\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\panel\javascript.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\default.js" />
+      <file name="D:\WEB\cursusindex\umbraco_client\ui\jqueryui.js" />
+    </files>
+  </item>
+</map>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>hulpmiddelen-grafieken.gif</originalFileName>
+    <size>38324</size>
+    <dateLastModified>Fri, 09 Sep 2011 20:11:01 GMT</dateLastModified>
+    <width>571</width>
+    <height>282</height>
+    <cachedImage>
+      <fileName>zcwoh5o2.gif</fileName>
+      <dateCreated>Sat, 22 Oct 2011 21:51:17 GMT</dateCreated>
+      <dateLastAccessed>Wed, 26 Oct 2011 23:41:45 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>80</width>
+      <height>40</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

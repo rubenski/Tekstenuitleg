@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>beheer_op_afstand.png</originalFileName>
+    <size>7287</size>
+    <dateLastModified>Thu, 08 Mar 2012 20:54:25 GMT</dateLastModified>
+    <width>86</width>
+    <height>82</height>
+    <cachedImage>
+      <fileName>ibqdqaig.png</fileName>
+      <dateCreated>Thu, 08 Mar 2012 22:00:15 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 22:00:15 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <width>85</width>
+      <height>81</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

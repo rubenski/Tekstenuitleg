@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>optische_muis.jpg</originalFileName>
+    <size>19613</size>
+    <dateLastModified>Thu, 08 Mar 2012 20:49:36 GMT</dateLastModified>
+    <width>200</width>
+    <height>149</height>
+    <cachedImage>
+      <fileName>4q1ard5s.jpeg</fileName>
+      <dateCreated>Thu, 08 Mar 2012 21:18:59 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 21:59:57 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>63</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

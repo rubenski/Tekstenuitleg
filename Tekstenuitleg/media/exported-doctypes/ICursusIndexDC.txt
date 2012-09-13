@@ -1,0 +1,50 @@
+using System;
+using System.Linq;
+using umbraco.Linq.Core;
+using System.Collections.Generic;
+
+namespace CursusIndex {
+	public partial interface ICursusIndexDCDataContext : IUmbracoDataContext {
+		IEnumerable<IArticlePage> ArticlePages { get; }
+IEnumerable<ICategory> Categorys { get; }
+IEnumerable<IGenericPage> GenericPages { get; }
+IEnumerable<IHomepage> Homepages { get; }
+IEnumerable<IPage> Pages { get; }
+
+	}
+
+	
+	public partial interface IArticlePage : IPage {
+		String Teaser { get; set; }
+
+		IEnumerable<IPage> Pages { get; }
+
+}
+
+	public partial interface ICategory : IDocTypeBase {
+		Int32? Weight { get; set; }
+
+		IEnumerable<IArticlePage> ArticlePages { get; }
+IEnumerable<ICategory> Categorys { get; }
+
+}
+
+	public partial interface IGenericPage : IDocTypeBase {
+		String PageTitle { get; set; }
+
+		
+}
+
+	public partial interface IHomepage : IGenericPage {
+		
+		IEnumerable<ICategory> Categorys { get; }
+
+}
+
+	public partial interface IPage : IGenericPage {
+		String Body { get; set; }
+
+		
+}
+
+}

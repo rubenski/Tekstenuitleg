@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>wireless-symbol.png</originalFileName>
+    <size>3417</size>
+    <dateLastModified>Thu, 08 Mar 2012 20:50:05 GMT</dateLastModified>
+    <width>300</width>
+    <height>223</height>
+    <cachedImage>
+      <fileName>5vn0mauj.png</fileName>
+      <dateCreated>Thu, 08 Mar 2012 20:50:39 GMT</dateCreated>
+      <dateLastAccessed>Mon, 02 Apr 2012 20:26:53 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <width>85</width>
+      <height>63</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

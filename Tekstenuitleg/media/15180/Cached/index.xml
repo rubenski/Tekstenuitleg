@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>cursus_outlook_thumb.jpg</originalFileName>
+    <size>4366</size>
+    <dateLastModified>Thu, 08 Mar 2012 20:49:59 GMT</dateLastModified>
+    <width>100</width>
+    <height>99</height>
+    <cachedImage>
+      <fileName>avzwjuzx.jpeg</fileName>
+      <dateCreated>Thu, 08 Mar 2012 21:18:54 GMT</dateCreated>
+      <dateLastAccessed>Mon, 02 Apr 2012 20:27:08 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>84</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

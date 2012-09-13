@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>laptop_white.jpg</originalFileName>
+    <size>7517</size>
+    <dateLastModified>Sat, 12 Nov 2011 20:37:36 GMT</dateLastModified>
+    <width>300</width>
+    <height>263</height>
+    <cachedImage>
+      <fileName>th5cbjtv.jpeg</fileName>
+      <dateCreated>Sat, 12 Nov 2011 20:39:43 GMT</dateCreated>
+      <dateLastAccessed>Sun, 13 Nov 2011 20:31:32 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+  <image>
+    <originalFileName>laptop.jpg</originalFileName>
+    <size>1916</size>
+    <dateLastModified>Mon, 12 Dec 2011 21:11:17 GMT</dateLastModified>
+    <width>85</width>
+    <height>75</height>
+    <cachedImage>
+      <fileName>f5scatxf.jpeg</fileName>
+      <dateCreated>Mon, 12 Dec 2011 21:17:37 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 20:51:42 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>2jr2sczk.jpeg</fileName>
+      <dateCreated>Tue, 13 Dec 2011 07:42:38 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 10:26:02 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>75</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

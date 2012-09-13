@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/Master.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="MainCPH" runat="server">
+    <asp:contentplaceholder id="HeaderCPH" runat="server">
+
+    </asp:contentplaceholder>
+    <div id="left">
+        <asp:contentplaceholder id="LeftCPH" runat="server">
+                
+        </asp:contentplaceholder>
+    </div>
+    <div id="center">
+        <asp:contentplaceholder id="CenterCPH" runat="server">
+
+        </asp:contentplaceholder>
+    </div>
+    <div id="right">
+        <asp:contentplaceholder id="RightCPH" runat="server">
+
+        </asp:contentplaceholder>
+    </div>
+    <br style="clear: left" />
+</asp:Content>
+
+<asp:Content ContentPlaceHolderId="HeadCPH" runat="server">
+    <asp:ContentPlaceHolder Id="HeadCPH" runat="server" />
+</asp:Content>
+
+  

@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#"  MasterPageFile="~/masterpages/ThreeColumnLayout.master" AutoEventWireup="true" CodeBehind="Category.Master.cs" Inherits="Tekstenuitleg.masterpages.Category" %>
+
+
+<asp:Content ContentPlaceHolderID="HeaderCPH" runat="server">
+    <div id="section-header">
+        <div id="headerText">
+             <h1>
+                <%=CurrentCategory.Name %>
+            </h1>
+            <span id="categorySubheading"><%=CurrentCategory.GetProperty("subheader") %></span>
+        </div>
+    </div>
+</asp:Content>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="LeftCPH" runat="server">
+    <umbraco:Macro ID="Macro1" Alias="ThemeList" runat="server"></umbraco:Macro>
+
+<% if(Request.RequestContext.HttpContext.Items["showAdsense"].Equals("1")){ %>
+    <script type="text/javascript"><!--
+        google_ad_client = "ca-pub-4003168380759642";
+        /* Skyscraper links categorieen */
+        google_ad_slot = "6578995825";
+        google_ad_width = 160;
+        google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<% } %>
+
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="CenterCPH" runat="server">
+    <div id="category-article-list">
+        <umbraco:Macro ID="Macro2" Alias="CategoryArticleList" runat="server"></umbraco:Macro>
+    </div>
+</asp:Content>
+
+<asp:Content ContentPlaceHolderID="RightCPH" runat="server">
+
+</asp:Content>

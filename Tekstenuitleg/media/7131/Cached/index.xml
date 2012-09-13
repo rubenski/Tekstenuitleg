@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>adsl2_alcatel.jpg</originalFileName>
+    <size>72298</size>
+    <dateLastModified>Mon, 07 Nov 2011 20:35:21 GMT</dateLastModified>
+    <width>400</width>
+    <height>367</height>
+    <cachedImage>
+      <fileName>zn3aa4eu.jpeg</fileName>
+      <dateCreated>Mon, 07 Nov 2011 20:35:30 GMT</dateCreated>
+      <dateLastAccessed>Fri, 11 Nov 2011 17:19:40 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>78</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

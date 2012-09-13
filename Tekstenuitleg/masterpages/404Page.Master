@@ -1,0 +1,9 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="404Page.master.cs" MasterPageFile="~/umbraco/masterpages/default.master" Inherits="CursusIndex.masterpages._404Page" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+    <h1>404</h1>
+    <p><b>The page you were trying to access does not exist.</b></p>
+
+    <p><b>De pagina die u probeerde te bereiken bestaat niet. </b></p> 
+</asp:content>
+

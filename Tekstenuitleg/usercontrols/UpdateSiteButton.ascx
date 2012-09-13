@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="UpdateSiteButton.ascx.cs" Inherits="Tekstenuitleg.usercontrols.UpdateSiteButton" %>
+<asp:Button ID="UpdateButton" runat="server" Text="Update website cache" onclick="UpdateButton_Click" />

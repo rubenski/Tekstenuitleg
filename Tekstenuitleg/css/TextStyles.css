@@ -1,0 +1,23 @@
+#main #center ul.taskList{
+    font-family: arial;
+    list-style-type: none;
+    padding: 4px 0;
+}
+
+#main #center ul.taskList li{
+    background: url("/static/img/actionBullet.gif") no-repeat scroll 20px 11px #D2E1FF;
+    border-bottom: 1px solid white;
+    padding: 6px 6px 6px 33px;
+    margin-bottom: 0px;
+}
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
+#main #center #article-body img.floatLeftImage {
+float:left;  margin: 0px 5px 5px 0px; border: 0;
+}
+

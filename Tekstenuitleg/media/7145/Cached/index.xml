@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>goog.jpg</originalFileName>
+    <size>12822</size>
+    <dateLastModified>Mon, 12 Dec 2011 21:10:39 GMT</dateLastModified>
+    <width>400</width>
+    <height>400</height>
+    <cachedImage>
+      <fileName>vmxnejb1.jpeg</fileName>
+      <dateCreated>Mon, 12 Dec 2011 21:29:49 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 20:49:09 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>85</width>
+      <height>85</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>qstgvmci.jpeg</fileName>
+      <dateCreated>Tue, 03 Jan 2012 00:10:10 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 12:29:47 GMT</dateLastAccessed>
+      <imageFormat>jpeg</imageFormat>
+      <compression>90</compression>
+      <width>400</width>
+      <height>400</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>False</constrain>
+      <pad>False</pad>
+    </cachedImage>
+  </image>
+</imageIndex>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>cursus_outlook.png</originalFileName>
+    <size>23392</size>
+    <dateLastModified>Mon, 12 Dec 2011 21:11:36 GMT</dateLastModified>
+    <width>150</width>
+    <height>148</height>
+    <cachedImage>
+      <fileName>i4wgygro.png</fileName>
+      <dateCreated>Mon, 12 Dec 2011 21:17:58 GMT</dateCreated>
+      <dateLastAccessed>Thu, 08 Mar 2012 20:32:09 GMT</dateLastAccessed>
+      <imageFormat>png</imageFormat>
+      <width>85</width>
+      <height>84</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>

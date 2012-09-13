@@ -1,0 +1,601 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:ThemePickerDataType.ascx.cs" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:business_logic/d:entitities/f:UmbracoImage.cs" caret="511" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:BlogList.ascx.cs" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:MostReadArticleList.ascx.cs" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:util/f:UmbracoFieldReader.cs" caret="6714" fromTop="24" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:App_Config/f:Log4net.config" caret="452" fromTop="10" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:masterpages/f:Category.Master.cs" caret="336" fromTop="10" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:IPBlocker.ascx" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlowplayerVideo.ascx" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:IPBlocker.ascx.cs" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlashMovie.ascx" caret="864" fromTop="17" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlowplayerVideo.ascx.cs" caret="592" fromTop="21" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlashMovie.ascx.designer.cs" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlashMovie.ascx.cs" caret="521" fromTop="21" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:BodyText.ascx.cs" caret="932" fromTop="28" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:config/f:umbracoSettings.config" caret="6939" fromTop="11" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3696" fromTop="18" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:ImageWithCaption.ascx" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/f:Web.config" caret="2236" fromTop="24" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:business_logic/d:business_objects/f:IArticleBo.cs" caret="308" fromTop="11" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:util/f:MacroUtil.cs" caret="1587" fromTop="31" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:ImageWithCaption.ascx.cs" caret="787" fromTop="10" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:ArticleMenu.ascx.cs" caret="0" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:business_logic/d:business_objects/f:ArticleBo.cs" caret="1112" fromTop="18" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:static/d:css/f:style.css" caret="6162" fromTop="22" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:BlogComments.ascx" caret="970" fromTop="24" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:ArticleMenu.ascx" caret="682" fromTop="11" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:settings/f:Settings.cs" caret="697" fromTop="26" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:masterpages/f:Master.Master" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlashMovie.ascx" caret="1646" fromTop="2" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlashMovie.ascx" caret="345" fromTop="4" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlashMovie.ascx" caret="864" fromTop="17" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlashMovie.ascx.cs" caret="495" fromTop="17" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:usercontrols/f:FlashMovie.ascx.cs" caret="362" fromTop="13" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3732" fromTop="12" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="15" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="10" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="12" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="12" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="6" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="12" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="2" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="5" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="4" fromTop="0" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="24" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="28" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="19" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3715" fromTop="26" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="1327" fromTop="19" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="1163" fromTop="15" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="1762" fromTop="21" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="894" fromTop="4" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="1204" fromTop="16" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="2885" fromTop="40" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="1630" fromTop="26" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="2366" fromTop="13" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="2676" fromTop="21" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:xslt/f:FlashMovie.xslt" caret="3696" fromTop="18" />
+      <File id="DBE43826-5FEE-48CB-8DFC-94A4FBD9F390/d:settings/f:Settings.cs" caret="166" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="SiteUtil`0" priority="63" />
+      <Item value="INode`0" priority="383" />
+      <Item value="if" priority="1439" />
+      <Item value="blogHome" priority="63" />
+      <Item value="throw" priority="95" />
+      <Item value="new" priority="927" />
+      <Item value="Exception" priority="57" />
+      <Item value="library`0" priority="248" />
+      <Item value="else" priority="415" />
+      <Item value="article" priority="31" />
+      <Item value="foreach" priority="255" />
+      <Item value="HomepageArticleSorter`0" priority="31" />
+      <Item value="var" priority="319" />
+      <Item value="List" priority="188" />
+      <Item value="PropertyConverter`0" priority="31" />
+      <Item value="homepagePosition" priority="31" />
+      <Item value="int" priority="895" />
+      <Item value="homepagePositionString" priority="26" />
+      <Item value="out" priority="95" />
+      <Item value="homepageArticles" priority="31" />
+      <Item value="this" priority="31" />
+      <Item value="SubmitPost" priority="63" />
+      <Item value="Node`0" priority="255" />
+      <Item value="FirstOrDefault`1" priority="26" />
+      <Item value="string" priority="1596" />
+      <Item value="Name" priority="63" />
+      <Item value="EmailAdress" priority="31" />
+      <Item value="Message" priority="127" />
+      <Item value="object" priority="95" />
+      <Item value="AppDomainSetup`0" priority="30" />
+      <Item value="public" priority="1117" />
+      <Item value="bool" priority="191" />
+      <Item value="o" priority="95" />
+      <Item value="null" priority="191" />
+      <Item value="email" priority="127" />
+      <Item value="return" priority="959" />
+      <Item value="false" priority="255" />
+      <Item value="private" priority="383" />
+      <Item value="IsEmail`0" priority="31" />
+      <Item value="ValidationResult" priority="57" />
+      <Item value="result" priority="415" />
+      <Item value="umbraco" priority="31" />
+      <Item value="ValidationResult`0" priority="63" />
+      <Item value="message" priority="127" />
+      <Item value="Valid" priority="63" />
+      <Item value="name" priority="127" />
+      <Item value="emailResult" priority="63" />
+      <Item value="nameResult" priority="63" />
+      <Item value="void" priority="159" />
+      <Item value="nodeDao" priority="63" />
+      <Item value="blogPost" priority="159" />
+      <Item value="commentsFolder" priority="63" />
+      <Item value="User`0" priority="31" />
+      <Item value="x" priority="31" />
+      <Item value="doc" priority="31" />
+      <Item value="CreateCommentsFolder`0" priority="31" />
+      <Item value="SaveDoc`0" priority="31" />
+      <Item value="newComment" priority="95" />
+      <Item value="IBlogBo`0" priority="31" />
+      <Item value="BusinessFactory`0" priority="31" />
+      <Item value="blogBo" priority="31" />
+      <Item value="Comments" priority="63" />
+      <Item value="List&lt;int&gt;" priority="28" />
+      <Item value="OrderingUtil`0" priority="26" />
+      <Item value="Order`0" priority="31" />
+      <Item value="Container" priority="127" />
+      <Item value="CommentsRepeater" priority="63" />
+      <Item value="Comment" priority="63" />
+      <Item value="static" priority="191" />
+      <Item value="DateTime`0" priority="31" />
+      <Item value="BlogPost" priority="31" />
+      <Item value="IsPostBack" priority="31" />
+      <Item value="Response" priority="351" />
+      <Item value="SubmitBlogPost`0" priority="31" />
+      <Item value="Random" priority="59" />
+      <Item value="Dictionary" priority="63" />
+      <Item value="Dictionary&lt;int,string&gt;" priority="28" />
+      <Item value="_operators" priority="127" />
+      <Item value="class" priority="30" />
+      <Item value="BlogComments`0" priority="31" />
+      <Item value="operatorSelector" priority="31" />
+      <Item value="number1" priority="287" />
+      <Item value="calc" priority="127" />
+      <Item value="operatorString" priority="158" />
+      <Item value="number2" priority="191" />
+      <Item value="AutomaticSubmissionPrevention`0" priority="123" />
+      <Item value="Calculation" priority="31" />
+      <Item value="CalendarSelectionMode`0" priority="31" />
+      <Item value="Result" priority="31" />
+      <Item value="switch" priority="31" />
+      <Item value="AutomaticSubmissionPrevention" priority="28" />
+      <Item value="GenerateAutomaticSubmissionPrevention`0" priority="31" />
+      <Item value="Session" priority="63" />
+      <Item value="submissionPrevention" priority="63" />
+      <Item value="Submission" priority="32" />
+      <Item value="SubmissionPrevention" priority="31" />
+      <Item value="CalcResult" priority="127" />
+      <Item value="ValidationResults" priority="32" />
+      <Item value="Dictionary&lt;string,FieldValidationResult&gt;" priority="28" />
+      <Item value="FieldValidationResult`0" priority="254" />
+      <Item value="_validationResult" priority="127" />
+      <Item value="fieldName" priority="31" />
+      <Item value="_totalErrors" priority="95" />
+      <Item value="FormValidationResult`0" priority="63" />
+      <Item value="FormValidationResult" priority="28" />
+      <Item value="formResult" priority="287" />
+      <Item value="calcResultInt" priority="63" />
+      <Item value="SessionPageStatePersister`0" priority="31" />
+      <Item value="prevention" priority="31" />
+      <Item value="FieldValidationResult" priority="113" />
+      <Item value="true" priority="95" />
+      <Item value="correct" priority="31" />
+      <Item value="CheckRobotCheck`0" priority="31" />
+      <Item value="robotCheck" priority="31" />
+      <Item value="ValidateCommentForm`0" priority="31" />
+      <Item value="ErrorMessage" priority="63" />
+      <Item value="CurrentUrl" priority="31" />
+      <Item value="Request" priority="63" />
+      <Item value="BlogForm" priority="63" />
+      <Item value="target" priority="31" />
+      <Item value="List&lt;FieldValidationResult&gt;" priority="28" />
+      <Item value="erronousResults" priority="95" />
+      <Item value="in" priority="159" />
+      <Item value="ContainerType`0" priority="31" />
+      <Item value="ErrorRepeater" priority="127" />
+      <Item value="IValidator`0" priority="31" />
+      <Item value="messageResult" priority="31" />
+      <Item value="LinkedListNode" priority="61" />
+      <Item value="VideoFileName" priority="31" />
+      <Item value="Width" priority="61" />
+      <Item value="Body" priority="63" />
+      <Item value="articleBo" priority="31" />
+      <Item value="nodetypeTasks`0" priority="31" />
+      <Item value="HttpServerUtility`0" priority="63" />
+      <Item value="articleBody" priority="63" />
+      <Item value="input" priority="319" />
+      <Item value="start" priority="95" />
+      <Item value="EndEventHandler`0" priority="31" />
+      <Item value="macroStatement" priority="63" />
+      <Item value="RecursiveMacroLookupAndReplace`0" priority="31" />
+      <Item value="AdsenseUtil`0" priority="31" />
+      <Item value="MacroUtil`0" priority="31" />
+      <Item value="Text" priority="31" />
+      <Item value="end" priority="31" />
+      <Item value="ListItem" priority="127" />
+      <Item value="DataItemContainer" priority="31" />
+      <Item value="GetItemIndex`0" priority="31" />
+      <Item value="PageNumber" priority="63" />
+      <Item value="languages" priority="127" />
+      <Item value="Length" priority="53" />
+      <Item value="dictionaryTasks`0" priority="31" />
+      <Item value="Dictionary&lt;string,INode&gt;" priority="28" />
+      <Item value="homepages" priority="31" />
+      <Item value="homepage" priority="63" />
+      <Item value="Domain`0" priority="63" />
+      <Item value="domains" priority="63" />
+      <Item value="language" priority="31" />
+      <Item value="FindCurrentHomepage`0" priority="63" />
+      <Item value="mainBrowserLanguage" priority="31" />
+      <Item value="Language`0" priority="94" />
+      <Item value="langs" priority="31" />
+      <Item value="browserLanguage" priority="159" />
+      <Item value="currentPage" priority="31" />
+      <Item value="siteLanguages" priority="191" />
+      <Item value="FindHomepages`0" priority="95" />
+      <Item value="HttpContext`0" priority="31" />
+      <Item value="List&lt;string&gt;" priority="28" />
+      <Item value="browserLanguages" priority="95" />
+      <Item value="Select`2" priority="26" />
+      <Item value="browserLanguageCode" priority="63" />
+      <Item value="browserLanguageCodes" priority="31" />
+      <Item value="siteLanguage" priority="31" />
+      <Item value="MostReadList" priority="31" />
+      <Item value="Server" priority="31" />
+      <Item value="pages" priority="63" />
+      <Item value="ShowPagination" priority="31" />
+      <Item value="Media" priority="28" />
+      <Item value="Image" priority="63" />
+      <Item value="for" priority="31" />
+      <Item value="UmbracoFieldReader`0" priority="31" />
+      <Item value="XPathNodeIterator`0" priority="63" />
+      <Item value="UmbracoImage`0" priority="159" />
+      <Item value="XmlNode`0" priority="95" />
+      <Item value="XmlDocument`0" priority="31" />
+      <Item value="GetXmlFromMediaNode`0" priority="31" />
+      <Item value="fileAsXml" priority="31" />
+      <Item value="image" priority="95" />
+      <Item value="XmlNodeToImage`0" priority="63" />
+      <Item value="afbeeldingAsXml" priority="31" />
+      <Item value="UmbracoImage" priority="63" />
+      <Item value="Caption" priority="31" />
+      <Item value="Src" priority="31" />
+      <Item value="LeImage" priority="95" />
+      <Item value="Height" priority="31" />
+      <Item value="CaptionImage`0" priority="31" />
+      <Item value="TheImage" priority="63" />
+      <Item value="dashboardUtilities" priority="26" />
+      <Item value="ImageWithCaption`0" priority="31" />
+      <Item value="Log" priority="31" />
+      <Item value="CaptionText" priority="31" />
+      <Item value="FlowplayerVideo`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CursusIndex.business_logic.business_objects.SiteUtil">
+      <Item value="FindCurrentHomepage`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="AspCodeCompletionContext">
+      <Item value="library`0" priority="9" />
+      <Item value="GetDictionaryItem`0" priority="15" />
+      <Item value="br" priority="28" />
+      <Item value="runat" priority="43" />
+      <Item value="Label`0" priority="13" />
+      <Item value="asp:Label" priority="13" />
+      <Item value="asp" priority="27" />
+      <Item value="ID" priority="35" />
+      <Item value="server" priority="27" />
+      <Item value="Text" priority="7" />
+      <Item value="Click" priority="6" />
+      <Item value="SubmitClick`0" priority="6" />
+      <Item value="&amp;nbsp;" priority="17" />
+      <Item value="span" priority="34" />
+      <Item value="id" priority="20" />
+      <Item value="div" priority="41" />
+      <Item value="class" priority="55" />
+      <Item value="column-header" priority="6" />
+      <Item value="blogPostSummary" priority="28" />
+      <Item value="blog-comments" priority="21" />
+      <Item value="Repeater`0" priority="6" />
+      <Item value="ItemTemplate" priority="13" />
+      <Item value="src" priority="30" />
+      <Item value="BlogComment.ascx" priority="6" />
+      <Item value="tagPrefix" priority="13" />
+      <Item value="blogcomment" priority="7" />
+      <Item value="Comment" priority="7" />
+      <Item value="b" priority="35" />
+      <Item value="tr" priority="13" />
+      <Item value="td" priority="20" />
+      <Item value="colspan" priority="13" />
+      <Item value="SingleLine" priority="6" />
+      <Item value="label" priority="13" />
+      <Item value="Width" priority="16" />
+      <Item value="target" priority="6" />
+      <Item value="action" priority="7" />
+      <Item value="HeaderTemplate" priority="6" />
+      <Item value="ul" priority="6" />
+      <Item value="FooterTemplate" priority="6" />
+      <Item value="li" priority="13" />
+      <Item value="LinkedListNode" priority="9" />
+      <Item value="." priority="6" />
+      <Item value="h1" priority="27" />
+      <Item value="&amp;raquo;" priority="5" />
+      <Item value="ArticlePagination.ascx.designer.cs" priority="20" />
+      <Item value="title" priority="7" />
+      <Item value="Register" priority="7" />
+      <Item value="ArticlePaginationItem.ascx" priority="6" />
+      <Item value="tagName" priority="6" />
+      <Item value="paginationItem" priority="6" />
+      <Item value="ListItem" priority="6" />
+      <Item value="PageNumber" priority="7" />
+      <Item value="adsenseMiddle" priority="6" />
+      <Item value="p" priority="13" />
+      <Item value="img" priority="14" />
+      <Item value="Src" priority="7" />
+      <Item value="height" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@umbraco.library">
+      <Item value="GetDictionaryItem`0" priority="320" />
+      <Item value="GetCurrentDomains`0" priority="53" />
+      <Item value="RenderMacroContent`0" priority="131" />
+      <Item value="GetMedia`0" priority="55" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:umbraco.interfaces.INode">
+      <Item value="GetProperty`0" priority="80" />
+      <Item value="Id" priority="80" />
+      <Item value="CreateDate" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:umbraco.interfaces.IProperty">
+      <Item value="Value" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="107" />
+      <Item value="Count" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="main" priority="24" />
+      <Item value="center" priority="24" />
+      <Item value="blog-comments" priority="9" />
+      <Item value="table" priority="5" />
+      <Item value="background-color" priority="11" />
+      <Item value="width" priority="5" />
+      <Item value="line-height" priority="11" />
+      <Item value="padding" priority="17" />
+      <Item value="tr" priority="5" />
+      <Item value="vertical-align" priority="5" />
+      <Item value="top" priority="6" />
+      <Item value="td" priority="5" />
+      <Item value="label" priority="5" />
+      <Item value="margin-left" priority="5" />
+      <Item value="margin" priority="5" />
+      <Item value="border" priority="17" />
+      <Item value="margin-bottom" priority="5" />
+      <Item value="font-weight" priority="11" />
+      <Item value="blogComment" priority="20" />
+      <Item value="blogPostDate" priority="8" />
+      <Item value="p" priority="5" />
+      <Item value="display" priority="11" />
+      <Item value="clear" priority="5" />
+      <Item value="background-image" priority="5" />
+      <Item value="background-repeat" priority="11" />
+      <Item value="posterDetails" priority="4" />
+      <Item value="padding-top" priority="5" />
+      <Item value="padding-left" priority="5" />
+      <Item value="blog-comments-erros" priority="4" />
+      <Item value="color" priority="11" />
+      <Item value="padding-bottom" priority="5" />
+      <Item value="text-transform" priority="5" />
+      <Item value="font-size" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="53" />
+      <Item value="Trim`0" priority="49" />
+      <Item value="Length" priority="80" />
+      <Item value="Equals`0" priority="161" />
+      <Item value="Concat`1" priority="53" />
+      <Item value="IndexOf`0" priority="80" />
+      <Item value="Substring`0" priority="162" />
+      <Item value="Replace`0" priority="26" />
+      <Item value="Contains`0" priority="54" />
+      <Item value="StartsWith`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="DataBind`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="HtmlEntityCodeCompletionContext">
+      <Item value="&amp;nbsp;" priority="2" />
+      <Item value="&amp;raquo;" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@umbraco.interfaces.INode">
+      <Item value="Equals`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@umbraco.NodeFactory.Node">
+      <Item value="GetCurrent`0" priority="188" />
+      <Item value="getCurrentNodeId`0" priority="122" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:umbraco.cms.businesslogic.web.Domain">
+      <Item value="Language" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:umbraco.cms.businesslogic.language.Language">
+      <Item value="CultureAlias" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="188" />
+      <Item value="ID" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.util.validation.ValidationResult">
+      <Item value="Message" priority="26" />
+      <Item value="Valid" priority="54" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.util.validation.EmailValidator">
+      <Item value="Validate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.util.validation.NameValidator">
+      <Item value="Validate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.data_logic.IGenericNodeDao">
+      <Item value="FindDescendants`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="FirstOrDefault`1" priority="81" />
+      <Item value="Where`1" priority="26" />
+      <Item value="Contains`1" priority="53" />
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@umbraco.BusinessLogic.User">
+      <Item value="GetUser`0" priority="53" />
+      <Item value="GetAllByLoginName`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:umbraco.BusinessLogic.User">
+      <Item value="LoginName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:umbraco.cms.businesslogic.web.Document">
+      <Item value="Id" priority="26" />
+      <Item value="getProperty`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CursusIndex.business_logic.business_objects.BusinessFactory">
+      <Item value="GetBlogBo`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.business_logic.business_objects.IBlogBo">
+      <Item value="AddComment`0" priority="26" />
+      <Item value="FindComments`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:umbraco.cms.businesslogic.property.Property">
+      <Item value="Value" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CursusIndex.util.ordering.OrderingUtil">
+      <Item value="OrderByCreateDate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CursusIndex.util.ordering.Order">
+      <Item value="Ascending" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.RepeaterItem">
+      <Item value="DataItem" priority="80" />
+      <Item value="ItemIndex" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Repeater">
+      <Item value="DataSource" priority="81" />
+      <Item value="DataBind`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CursusIndex.util.DateUtil">
+      <Item value="GetLocalizedCreateDate`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpResponse">
+      <Item value="Write`0" priority="296" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Add`0" priority="107" />
+      <Item value="Values" priority="26" />
+      <Item value="Clear`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="Equals`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.SessionState.HttpSessionState">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.usercontrols.AutomaticSubmissionPrevention">
+      <Item value="Calculation" priority="26" />
+      <Item value="Result" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpServerUtility">
+      <Item value="HtmlEncode`0" priority="135" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.util.validation.FieldValidationResult">
+      <Item value="Valid" priority="80" />
+      <Item value="Message" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.util.validation.FormValidationResult">
+      <Item value="AddResult`0" priority="107" />
+      <Item value="FormIsValid`0" priority="26" />
+      <Item value="GetResultAsList`0" priority="26" />
+      <Item value="GetErronousResults`0" priority="22" />
+      <Item value="ClearResults`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2+ValueCollection">
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpRequest">
+      <Item value="Url" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="AbsolutePath" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlForm">
+      <Item value="Action" priority="53" />
+      <Item value="Focus`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.util.validation.CommentMessageValidator">
+      <Item value="Validate`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:umbraco.NodeFactory.Node">
+      <Item value="GetProperty`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CursusIndex.util.MacroUtil">
+      <Item value="RenderInlineMacros`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.business_logic.entitities.ArticleListItem">
+      <Item value="Url" priority="26" />
+      <Item value="PageTitle" priority="26" />
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CursusIndex.util.SiteUtil">
+      <Item value="FindCurrentHomepage`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@umbraco.cms.businesslogic.language.Language">
+      <Item value="GetAllAsList`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.HttpContext">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.HttpContext">
+      <Item value="RemapHandler`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CursusIndex.util.UmbracoFieldReader">
+      <Item value="ReadMediaPickerImageField`0" priority="54" />
+      <Item value="ConvertImageXml`0" priority="26" />
+      <Item value="ReadImageFromIterator`0" priority="27" />
+      <Item value="ReadMediaImageFromIterator`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CursusIndex.business_logic.entitities.UmbracoImage">
+      <Item value="GetImageUrl`0" priority="80" />
+      <Item value="Src" priority="104" />
+      <Item value="Width" priority="53" />
+      <Item value="Height" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Debug`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

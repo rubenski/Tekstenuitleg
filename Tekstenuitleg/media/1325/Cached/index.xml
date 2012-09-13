@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <image>
+    <originalFileName>kolomgrafiek2.gif</originalFileName>
+    <size>5189</size>
+    <dateLastModified>Wed, 14 Sep 2011 23:07:53 GMT</dateLastModified>
+    <width>362</width>
+    <height>216</height>
+    <cachedImage>
+      <fileName>2c43yded.gif</fileName>
+      <dateCreated>Sat, 22 Oct 2011 20:10:22 GMT</dateCreated>
+      <dateLastAccessed>Sat, 22 Oct 2011 20:10:22 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>80</width>
+      <height>60</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>True</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+    <cachedImage>
+      <fileName>2fqdht0p.gif</fileName>
+      <dateCreated>Sat, 22 Oct 2011 20:10:59 GMT</dateCreated>
+      <dateLastAccessed>Wed, 26 Oct 2011 23:41:45 GMT</dateLastAccessed>
+      <imageFormat>gif</imageFormat>
+      <width>80</width>
+      <height>48</height>
+      <bgColor>#FFFFFF</bgColor>
+      <transparent>True</transparent>
+      <border>0</border>
+      <borderColor>#000000</borderColor>
+      <constrain>True</constrain>
+      <pad>False</pad>
+      <align>left</align>
+      <valign>middle</valign>
+    </cachedImage>
+  </image>
+</imageIndex>
